@@ -1,0 +1,1 @@
+This notebook provides a summary of key Data Science tools and ecosystems. It includes a table of open-source development tools and a brief guide to getting started with Jupyter Notebook, offering a simple introduction for beginners.
